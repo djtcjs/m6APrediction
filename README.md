@@ -8,11 +8,11 @@ single-site prediction from genomic features and five-base DNA sequences.
 
 Requires R >= 3.5.0 and randomForest.
 
-After publishing your GitHub repository, replace YOUR_GITHUB_USERNAME:
+Install from GitHub
 
 ```r
 install.packages("remotes")
-remotes::install_github("YOUR_GITHUB_USERNAME/m6APrediction")
+remotes::install_github("djtcjs/m6APrediction")
 ```
 
 Alternatively, install the source archive from its download directory:
