@@ -48,3 +48,11 @@ prediction_single(
   DNA_5mer = "GGACA",
   positive_threshold = 0.5
 )
+```
+
+## Model performance
+
+ROC and precision-recall curves from the Practical 3 assignment.
+
+![ROC curve](ROC.png)
+![Precision-recall curve](PRC.png)
